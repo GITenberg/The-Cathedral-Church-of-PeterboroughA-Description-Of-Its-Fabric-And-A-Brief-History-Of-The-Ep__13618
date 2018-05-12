@@ -1,0 +1,30 @@
+_repo: The-Cathedral-Church-of-PeterboroughA-Description-Of-Its-Fabric-And-A-Brief-History-Of-The-Ep__13618
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sweeting, W. D. (Walter Debenham)
+    alias: Sweeting, Walter Debenham
+    birthdate: 1839
+    deathdate: 1913
+    gutenberg_agent_id: '9668'
+    url: http://www.gutenberg.org/2009/agents/9668
+description: ''
+gutenberg_bookshelf: Architecture
+gutenberg_issued: '2004-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peterborough Cathedral'
+- !lcc 'NA'
+title: 'The Cathedral Church of Peterborough
+
+  A Description Of Its Fabric And A Brief History Of The Episcopal See'
+url: http://www.gutenberg.org/ebooks/13618
