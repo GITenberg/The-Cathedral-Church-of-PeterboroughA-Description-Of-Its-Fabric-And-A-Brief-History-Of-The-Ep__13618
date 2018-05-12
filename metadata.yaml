@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9668'
     url: http://www.gutenberg.org/2009/agents/9668
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13618#The-Cathedral-Church-of-PeterboroughA-Description-Of-Its-Fabric-And-A-Brief-History-Of-The-Ep_
 gutenberg_bookshelf: Architecture
 gutenberg_issued: '2004-10-05'
 gutenberg_type: Text
